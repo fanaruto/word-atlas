@@ -9,3 +9,8 @@ output/
 .DS_Store
 .playwright-cli/
 *.tsbuildinfo
+device/pack/
+device/build/
+device/host/build/
+device/sdkconfig
+device/sdkconfig.old
